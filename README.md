@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**alejandromoncadag/alejandromoncadag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alejandro — a prospective graduate student for **Tufts University (Fall 2026)** in the **M.S. in Artificial Intelligence** (Computer Science track) in **Boston, Massachusetts, USA**.
 
-Here are some ideas to get you started:
+I (graduated / am graduating) from **Connecticut College** with a **double major in Computer Science and Econometrics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are **Machine Learning, AI, and Data Science**, especially applied to:
+- **Athletics (squash/padel):** I’m building a platform system in the U.S. to **rate player levels** and **connect tournaments and matches** across the country.
+- **Vision / optometry:** I’m building a **SQL database** for an eye-care business in **Mexico** to organize patient data and analyze eye-care issues.
+
+I also played **Varsity Squash as the #1 player** at **St. Lawrence University** and **Connecticut College**.
+
+**Tech I use:** Python, Java, SQL, R, HTML/CSS, Jupyter Notebook.
+
+📫 **Contact:**  
+- LinkedIn: https://www.linkedin.com/in/alejandro-moncadaglz  
+- Email: lmoncadag@conncoll.edu
